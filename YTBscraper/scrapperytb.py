@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import requests
 
 #Key da Google Cloud - YouTube v3
-API_KEY = 'AIzaSyDPGxXM8qwTZVirYPH8IqjbZGR8_zqvFrg'
+API_KEY = 'SUA CHAVE AQUI'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_video_info(video_id):
