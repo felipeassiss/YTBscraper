@@ -41,7 +41,3 @@ Instale as dependências com:
 ```bash
 pip install google-api-python-client requests
 ```
-
-## Aviso
-
-Este projeto utiliza uma API de terceiros para estimar o número de dislikes devido à remoção dos mesmos.
